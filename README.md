@@ -77,9 +77,12 @@ I am a passionate and detail-oriented **Fullstack Developer** with expertise acr
 ---
 
 ## 📬 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+<a href="https://www.linkedin.com/in/alok-kumar-gautam/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="https://www.linkedin.com/in/alok-kumar-gautam/" height="50" width="50" /></a>
+
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alok-kumar-gautam/) 
 - 🌐 [Portfolio/Website](https://github.com/alokkumargautam)  
-- 📧 Email: *your-email-here*  
+- 📧 Email: *alokgautam742@gmail.com*  
 
 ---
 
